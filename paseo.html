@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <title>Cocina</title>
+</head>
+<body>
+    <a-assets>
+        <a-asset-item id="cat" src="/assets/cat_-_walking/scene.gltf"></a-asset-item>
+        <a-asset-item id="poste" src="/assets/lamppost_-_poste_de_luz/scene.gltf"></a-asset-item>
+        <a-asset-item id="persona" src="/assets/naoya_persona_q/scene.gltf"></a-asset-item>
+        <a-asset-item id="banca" src="/assets/banca_jardin/scene.gltf"></a-asset-item>
+    </a-assets>
+
+    <a-scene background="color:black">
+
+        <a-plane position="0 0 0" rotation="-90 0 0" width="6" height="5"  src="./piso.jpg" shadow="receive: true"></a-plane>
+        <a-entity gltf-model="#cat" position="0 0 0" scale="0.007 0.007 0.007" shadow="cast: true;"></a-entity>
+        <a-entity gltf-model="#poste" position="-2 0 -2" scale="0.03 0.03 0.03" shadow="cast: true;"></a-entity>
+        <a-entity gltf-model="#persona" position="0 0 -0.5" scale="0.01 0.01 0.01" shadow="cast: true;"></a-entity>
+        <a-entity gltf-model="#banca" position="0 0 -2" scale="1 1 1" shadow="cast: true""></a-entity>
+        <a-box position="0 2 -2.5" rotation="0 90 0" width="0.2" height="5" depth="6" src="/assets/narrow-muddy-road-dark-forest.jpg"></a-box>
+        <a-entity light="type: directional; color: #2F1B4D; intensity: 1;castShadow: true" position="-2 20 -5"></a-entity>
+        <a-entity light="type: ambient; intensity: 0.5;">
+        </a-entity>
+        </a-entity>
+
+    </a-entity>
+    </a-scene>
+</body>
+</html>

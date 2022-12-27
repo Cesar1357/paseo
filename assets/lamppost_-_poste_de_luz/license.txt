@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamppost - Poste de luz
+* source:	https://sketchfab.com/3d-models/lamppost-poste-de-luz-bba3dcbffd3647d189e3b391fb514b01
+* author:	SAN71AG0_LC (https://sketchfab.com/SAN71AG0_LC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamppost - Poste de luz" (https://sketchfab.com/3d-models/lamppost-poste-de-luz-bba3dcbffd3647d189e3b391fb514b01) by SAN71AG0_LC (https://sketchfab.com/SAN71AG0_LC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

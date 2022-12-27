@@ -1,0 +1,329 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3991,
+      "max": [
+        165.0000457763672,
+        62.797664642333984,
+        15.86865520477295
+      ],
+      "min": [
+        -164.99998474121094,
+        -95.58723449707031,
+        -13.152230262756348
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47892,
+      "componentType": 5126,
+      "count": 3991,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3991,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 12438,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 95784,
+      "componentType": 5126,
+      "count": 200,
+      "max": [
+        200.0000457763672,
+        63.384422302246094,
+        16.02820587158203
+      ],
+      "min": [
+        -199.99998474121094,
+        -21.071025848388672,
+        -5.617915630340576
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 98184,
+      "componentType": 5126,
+      "count": 200,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31928,
+      "componentType": 5126,
+      "count": 200,
+      "max": [
+        0.6205677390098572,
+        0.9883671402931213
+      ],
+      "min": [
+        0.1382967233657837,
+        0.007798194885253906
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 49752,
+      "componentType": 5125,
+      "count": 432,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Carlos Ramirez Montoya (https://sketchfab.com/CarlosRamirezMontoya)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/banca-jardin-ffdf0e6ad016416197dfb1318ea7a771",
+      "title": "Banca Jardin"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 51480,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33528,
+      "byteOffset": 51480,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 100584,
+      "byteOffset": 85008,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 185592,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/MaderaBanca_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "MetalBanca",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.17901507171454986,
+          0.17901507171454986,
+          0.17901507171454986,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7614552097364423
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "MaderaBanca",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8040408205773457
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cylinder.003_MetalBanca_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.003_MaderaBanca_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.01381713431328535,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.0680201297895395e-18,
+        -0.01381713431328535,
+        0.0,
+        0.0,
+        0.01381713431328535,
+        3.0680201297895395e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "89105e914074477a95ac488aea703584.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.49240381177891934,
+        -0.08682411267009515,
+        0.0,
+        0.0,
+        0.2604723483605275,
+        1.4772114940358736,
+        0.0,
+        -1.5431860447279178e-05,
+        44.40261459350586,
+        -1.13048255443573,
+        1.0
+      ],
+      "name": "Cylinder.003"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder.003_MetalBanca_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Cylinder.003_MaderaBanca_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

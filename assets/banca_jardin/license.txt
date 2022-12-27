@@ -1,0 +1,11 @@
+Model Information:
+* title:	Banca Jardin
+* source:	https://sketchfab.com/3d-models/banca-jardin-ffdf0e6ad016416197dfb1318ea7a771
+* author:	Carlos Ramirez Montoya (https://sketchfab.com/CarlosRamirezMontoya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Banca Jardin" (https://sketchfab.com/3d-models/banca-jardin-ffdf0e6ad016416197dfb1318ea7a771) by Carlos Ramirez Montoya (https://sketchfab.com/CarlosRamirezMontoya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
